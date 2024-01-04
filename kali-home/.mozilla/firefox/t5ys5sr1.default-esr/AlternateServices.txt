@@ -1,0 +1,7 @@
+https:push.services.mozilla.com:443:.::3	0	19725	https:push.services.mozilla.com:443:push.services.mozilla.com:443::n:1706914260:h3:y:1704322246:n::|n:y:
+https:consent.google.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19725	https:consent.google.com:443:consent.google.com:443::n:1706914265:h3:y:1704322246:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	19725	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1706914279:h3:y:1704322246:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:
+https:www.gstatic.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19725	https:www.gstatic.com:443:www.gstatic.com:443::n:1706914267:h3:y:1704322246:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:
+https:www.google.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19725	https:www.google.com:443:www.google.com:443::n:1706914296:h3:y:1704322246:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:
+https:fonts.gstatic.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19725	https:fonts.gstatic.com:443:fonts.gstatic.com:443::n:1706914263:h3:y:1704322246:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:
+https:apis.google.com:443:.:^partitionKey=%28https%2Cgoogle.com%29:3	0	19725	https:apis.google.com:443:apis.google.com:443::n:1706914268:h3:y:1704322246:n:^partitionKey=%28https%2Cgoogle.com%29:|n:y:

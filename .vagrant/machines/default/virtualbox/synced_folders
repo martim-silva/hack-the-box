@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"D:/repo/hack-the-box/kali-home","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/repo/hack-the-box","disabled":false,"__vagrantfile":true}}}

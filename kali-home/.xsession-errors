@@ -1,0 +1,92 @@
+Xsession: X session started for vagrant at Wed Jan  3 17:50:26 EST 2024
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/vagrant/.Xauthority
+localuser:vagrant being added to access control list
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+22:50:26.623978 main     VBoxClient 7.0.10_Debian r158379 (verbosity: 0) linux.amd64 (Jul 19 2023 15:16:24) release log
+22:50:26.623982 main     Log opened 2024-01-03T22:50:26.623971000Z
+22:50:26.662257 main     OS Product: Linux
+22:50:26.663428 main     OS Release: 6.3.0-kali1-amd64
+22:50:26.665056 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.3.7-1kali1 (2023-06-29)
+22:50:26.666376 main     Executable: /usr/bin/VBoxClient
+22:50:26.666377 main     Process ID: 2112
+22:50:26.666378 main     Package type: LINUX_64BITS_GENERIC (OSE)
+22:50:26.667102 main      VBoxClient 7.0.10_Debian r158379 started. Verbose level = 0. Wayland environment detected: no
+22:50:26.667849 main      Service: Shared Clipboard
+22:50:26.681896 main     VBoxClient 7.0.10_Debian r158379 (verbosity: 0) linux.amd64 (Jul 19 2023 15:16:24) release log
+22:50:26.681900 main     Log opened 2024-01-03T22:50:26.681892000Z
+22:50:26.683363 main     OS Product: Linux
+22:50:26.683814 main     OS Release: 6.3.0-kali1-amd64
+22:50:26.684528 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.3.7-1kali1 (2023-06-29)
+22:50:26.685608 main     Executable: /usr/bin/VBoxClient
+22:50:26.685610 main     Process ID: 2116
+22:50:26.685611 main     Package type: LINUX_64BITS_GENERIC (OSE)
+22:50:26.689518 main      VBoxClient 7.0.10_Debian r158379 started. Verbose level = 0. Wayland environment detected: no
+22:50:26.691180 main      Service: VirtualBox host version check
+22:50:26.712443 main     VBoxClient 7.0.10_Debian r158379 (verbosity: 0) linux.amd64 (Jul 19 2023 15:16:24) release log
+22:50:26.712447 main     Log opened 2024-01-03T22:50:26.712438000Z
+22:50:26.720044 main     OS Product: Linux
+22:50:26.721936 main     OS Release: 6.3.0-kali1-amd64
+22:50:26.723340 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.3.7-1kali1 (2023-06-29)
+22:50:26.724468 main     Executable: /usr/bin/VBoxClient
+22:50:26.724470 main     Process ID: 2125
+22:50:26.724470 main     Package type: LINUX_64BITS_GENERIC (OSE)
+22:50:26.725831 main      VBoxClient 7.0.10_Debian r158379 started. Verbose level = 0. Wayland environment detected: no
+22:50:26.726951 main      Service: Seamless Mode Support
+22:50:26.750001 main     VBoxClient 7.0.10_Debian r158379 (verbosity: 0) linux.amd64 (Jul 19 2023 15:16:24) release log
+22:50:26.750004 main     Log opened 2024-01-03T22:50:26.749978000Z
+22:50:26.752553 main     OS Product: Linux
+22:50:26.753634 main     OS Release: 6.3.0-kali1-amd64
+22:50:26.754248 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.3.7-1kali1 (2023-06-29)
+22:50:26.754792 main     Executable: /usr/bin/VBoxClient
+22:50:26.754793 main     Process ID: 2132
+22:50:26.754794 main     Package type: LINUX_64BITS_GENERIC (OSE)
+22:50:26.755958 main      VBoxClient 7.0.10_Debian r158379 started. Verbose level = 0. Wayland environment detected: no
+22:50:26.756756 main      Service: Drag'n'Drop
+22:50:26.772356 main     VBoxClient 7.0.10_Debian r158379 (verbosity: 0) linux.amd64 (Jul 19 2023 15:16:24) release log
+22:50:26.772358 main     Log opened 2024-01-03T22:50:26.772352000Z
+22:50:26.774636 main     OS Product: Linux
+22:50:26.775271 main     OS Release: 6.3.0-kali1-amd64
+22:50:26.775847 main     OS Version: #1 SMP PREEMPT_DYNAMIC Debian 6.3.7-1kali1 (2023-06-29)
+22:50:26.776423 main     Executable: /usr/bin/VBoxClient
+22:50:26.776424 main     Process ID: 2138
+22:50:26.776425 main     Package type: LINUX_64BITS_GENERIC (OSE)
+22:50:26.777027 main      VBoxClient 7.0.10_Debian r158379 started. Verbose level = 0. Wayland environment detected: no
+22:50:26.778734 main      Service: VMSVGA display assistant
+/usr/bin/x-session-manager: X server already running on display :0
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+xfce4-session-Message: 17:50:27.180: SSH authentication agent is already running
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:2197): xfwm4-WARNING **: 17:50:29.369: Another compositing manager is running on screen 0
+
+** (xiccd:2268): WARNING **: 17:50:32.429: EDID is empty
+
+** (xiccd:2268): WARNING **: 17:50:32.432: EDID is empty
+
+(light-locker:2273): dconf-WARNING **: 17:50:32.520: failed to commit changes to dconf: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._g_2dfile_2derror_2dquark.Code22: Failed to rename file “/home/vagrant/.config/dconf/user.3C0RG2” to “/home/vagrant/.config/dconf/user”: g_rename() failed: Operation not permitted
+Failure: No such entity
+cp: cannot create symbolic link '/home/vagrant/.face.icon': Protocol error
+
+(xfce4-power-manager:2311): xfce4-power-manager-WARNING **: 17:50:34.628: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:2311): WARNING **: 17:50:34.865: No outputs have backlight property
+
+(xfce4-power-manager:2311): xfce4-power-manager-WARNING **: 17:50:34.938: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+blueman-applet 17.50.36 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.50.36 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+
+** (xiccd:2268): WARNING **: 17:50:36.851: EDID is empty
+
+** (xiccd:2268): WARNING **: 17:50:36.946: EDID is empty
+blueman-applet 17.50.37 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+
+** (wrapper-2.0:2409): WARNING **: 17:50:38.362: No outputs have backlight property
+
+(wrapper-2.0:2409): xfce4-power-manager-plugin-WARNING **: 17:50:39.129: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+** (xfdesktop:2258): WARNING **: 17:50:41.836: Unable to create symbolic link: Protocol error
